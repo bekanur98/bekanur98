@@ -20,7 +20,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
 </a> &nbsp
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="nodejs" width="50" height="50"/> </a> &nbsp
-<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://symfony.com/images/logos/header-logo.svg" alt="symfony" width="50" height="50"/> </a>&nbsp
+<a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/symfony-3550987-2970506.png" alt="symfony" width="50" height="50"/> </a>&nbsp
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="go" width="50" height="50"/> </a>
 <hr/>
 </p>

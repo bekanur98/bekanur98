@@ -19,8 +19,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&nbsp
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
 </a> &nbsp
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="redux" width="50" height="50"/> </a>&nbsp
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="nodejs" width="50" height="50"/> </a> &nbsp
 <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://symfony.com/images/logos/header-logo.svg" alt="symfony" width="50" height="50"/> </a>&nbsp
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="go" width="50" height="50"/> </a>
 <hr/>

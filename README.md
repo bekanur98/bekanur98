@@ -6,7 +6,7 @@
 - 👨‍💻 I'm Software Engineer at Growave.io
 - 💬 Languages: English (intermediate), Russian (native)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekanur98&langs_count=10&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekanur98&langs_count=7&theme=dark) 
 
 <hr/>
 <h3 align="left">Languages</h3>

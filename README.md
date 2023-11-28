@@ -6,6 +6,8 @@
 - 👨‍💻 I'm Software Engineer at Growave.io
 - 💬 Languages: English (intermediate), Russian (native)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekanur98&langs_count=10&theme=dark) 
+
 <hr/>
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -40,3 +42,9 @@
 </p>
 <hr/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=amantaysv&label=Profile%20views&color=0e75b6&style=flat" alt="bekanur98" /> </p>
+
+
+### Follow Me
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/_bekanur/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/beknur_baltabaev/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/beknur-b//)

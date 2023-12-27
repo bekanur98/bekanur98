@@ -11,9 +11,9 @@
 <hr/>
 <h3 align="left">Languages</h3>
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/php-logo-white.svg" alt="php" width="50" height="50"/> </a>&nbsp
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/256_Php-512.png" alt="php" width="50" height="50"/> </a>&nbsp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="go" width="50" height="50"/> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/403/502/png-transparent-golang-go-google-programming-language-systems-programming-golang-logo-3d-icon.png" alt="go" width="50" height="50"/> </a>
 </p>
 <hr/>
 <h3 align="left">WEB technology stack</h3>
@@ -23,7 +23,8 @@
 </a> &nbsp
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="nodejs" width="50" height="50"/> </a> &nbsp
 <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/symfony-3550987-2970506.png" alt="symfony" width="50" height="50"/> </a>&nbsp
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="go" width="50" height="50"/> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/403/502/png-transparent-golang-go-google-programming-language-systems-programming-golang-logo-3d-icon.png" alt="go" width="50" height="50"/> </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png" alt="nestjs" width="50" height="50"/> </a> 
 <hr/>
 </p>
 
@@ -37,7 +38,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="50" height="50"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2013/240/iconmonstr-linux-os-1.png" alt="linux" width="50" height="50"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
-  
   
 </p>
 <hr/>
